@@ -6,3 +6,6 @@ In your AppDelegate's didFinishLaunchingWithOptions call <br>
 `DefaultsCloudSync.start()`  <br>
 That's it!
 
+
+# Credits
+Inspired by Mugunth Kumar's Objective-C class MKiCloudSync.
