@@ -1,5 +1,6 @@
 # What is DefaultsCloudSync?
-DefaultsCloudSync is a simple Swift class that synchronizes NSUserDefaults to iCloud.
+DefaultsCloudSync is a simple Swift class that synchronizes NSUserDefaults to iCloud.  <br>
+It requires just one line of code.
 
 # Usage
 In your AppDelegate's didFinishLaunchingWithOptions call <br> 
